@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da0b49e-8ee9-46a7-b5a9-5469b88c7c58" name="Changes" comment="common properties bom">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="0da0b49e-8ee9-46a7-b5a9-5469b88c7c58" name="Changes" comment="common build dependencies">
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676209271724</updated>
-      <workItem from="1676209273646" duration="1833000" />
+      <workItem from="1676209273646" duration="2096000" />
     </task>
     <task id="LOCAL-00001" summary="common properties bom">
       <created>1676210229656</created>
@@ -67,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676210229656</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="common build dependencies">
+      <created>1676211139517</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676211139517</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +81,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="common properties bom" />
-    <option name="LAST_COMMIT_MESSAGE" value="common properties bom" />
+    <MESSAGE value="common build dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="common build dependencies" />
   </component>
 </project>
