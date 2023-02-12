@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0da0b49e-8ee9-46a7-b5a9-5469b88c7c58" name="Changes" comment="common build dependencies">
+    <list default="true" id="0da0b49e-8ee9-46a7-b5a9-5469b88c7c58" name="Changes" comment="common build plugins">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +58,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676209271724</updated>
-      <workItem from="1676209273646" duration="2096000" />
+      <workItem from="1676209273646" duration="2650000" />
     </task>
     <task id="LOCAL-00001" summary="common properties bom">
       <created>1676210229656</created>
@@ -73,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676211139517</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="common build plugins">
+      <created>1676211446185</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676211446185</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +90,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="common properties bom" />
     <MESSAGE value="common build dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="common build dependencies" />
+    <MESSAGE value="common build plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="common build plugins" />
   </component>
 </project>
